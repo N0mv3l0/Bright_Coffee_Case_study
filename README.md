@@ -5,9 +5,6 @@ Dashboard link- Lovable
 
 https://bright-coffee-shop-analysis-dashboard.lovable.app
 
-Dashboard: Google Data Studio
-
-https://datastudio.google.com/s/rwX90-YDGxw
 
 Data Agent
 
