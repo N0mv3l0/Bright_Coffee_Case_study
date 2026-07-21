@@ -141,8 +141,7 @@ The agent provides:
 | **Power BI**             | Interactive business intelligence dashboard                           |
 | **Google Looker Studio** | Cloud-based interactive dashboard and reporting                       |
 | **Lovable**              | AI-generated interactive executive dashboard 
-                            https://bright-coffee-shop-analysis-dashboard.lovable.app
-|
+|                            https://bright-coffee-shop-analysis-dashboard.lovable.app             |
 | **Canva**                | Project planning using a Gantt Chart                                  |
 | **Miro**                 | Brainstorming, process mapping and project flowchart design           |
 
