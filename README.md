@@ -109,6 +109,7 @@ The dashboards provide both executive-level and operational insights.
 ---
 
 # 🤖 Coffee Shop Data Agent
+https://dbc-f0761396-3c73.cloud.databricks.com/genie/rooms/01f182138e5e1115946505c66746aecf?o=7474658285210116
 
 A conversational AI assistant was developed to answer business questions using the coffee shop dataset.
 
@@ -139,7 +140,9 @@ The agent provides:
 | **Microsoft Excel**      | Dashboard development and pivot table analysis                        |
 | **Power BI**             | Interactive business intelligence dashboard                           |
 | **Google Looker Studio** | Cloud-based interactive dashboard and reporting                       |
-| **Lovable**              | AI-generated interactive executive dashboard                          |
+| **Lovable**              | AI-generated interactive executive dashboard 
+                            https://bright-coffee-shop-analysis-dashboard.lovable.app
+|
 | **Canva**                | Project planning using a Gantt Chart                                  |
 | **Miro**                 | Brainstorming, process mapping and project flowchart design           |
 
@@ -178,11 +181,7 @@ The agent provides:
 This project demonstrates the ability to transform transactional sales data into actionable business intelligence through a combination of SQL, visualization tools, and AI-assisted analytics. By integrating multiple dashboarding platforms with a conversational Data Agent, the solution enables executives and operational managers to explore key performance indicators, identify sales trends, evaluate store and product performance, and make informed business decisions based on reliable, data-driven insights.
 
 
-Dashboard link- Lovable
-
-https://bright-coffee-shop-analysis-dashboard.lovable.app
 
 
-Data Agent
 
-https://dbc-f0761396-3c73.cloud.databricks.com/genie/rooms/01f182138e5e1115946505c66746aecf?o=7474658285210116
+
